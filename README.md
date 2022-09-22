@@ -1,2 +1,0 @@
-# jquery-rails-master
- 
